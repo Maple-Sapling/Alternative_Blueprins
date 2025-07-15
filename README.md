@@ -19,3 +19,7 @@ The Long Dark Mod
 - Wool Wrap
 - Workbench Vice
 - Work Gloves
+
+# Requires:
+- ModComponent
+- CraftingRevisions
