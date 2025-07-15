@@ -22,7 +22,7 @@
     "CraftedResult": "GEAR_HighQualityTools",
     "CraftedResultCount": 1,
     "DurationMinutes": 180,
-    "CraftingAudio": "PLAY_CraftingGeneric",
+    "CraftingAudio": "Play_RepairingMetal",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"
 }

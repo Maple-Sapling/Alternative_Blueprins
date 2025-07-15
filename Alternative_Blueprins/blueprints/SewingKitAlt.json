@@ -32,7 +32,7 @@
     "CraftedResult": "GEAR_SewingKit",
     "CraftedResultCount": 1,
     "DurationMinutes": 90,
-    "CraftingAudio": "PLAY_CraftingGeneric",
+    "CraftingAudio": "Play_RepairingLeatherHide",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"
 }

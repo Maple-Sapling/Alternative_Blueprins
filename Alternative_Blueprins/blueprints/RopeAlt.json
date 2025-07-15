@@ -24,7 +24,7 @@
     "CraftedResult": "GEAR_Rope",
     "CraftedResultCount": 1,
     "DurationMinutes": 240,
-    "CraftingAudio": "PLAY_CraftingGeneric",
+    "CraftingAudio": "Play_RepairingLeatherHide",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"
 }

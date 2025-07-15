@@ -22,7 +22,7 @@
     "CraftedResult": "GEAR_Torch",
     "CraftedResultCount": 1,
     "DurationMinutes": 20,
-    "CraftingAudio": "PLAY_CraftingGeneric",
+    "CraftingAudio": "Play_RepairingLeatherHide",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"
 }

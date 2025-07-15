@@ -22,7 +22,7 @@
     "CraftedResult": "GEAR_WoolWrap",
     "CraftedResultCount": 1,
     "DurationMinutes": 180,
-    "CraftingAudio": "PLAY_CraftingGeneric",
+    "CraftingAudio": "Play_RepairingLeatherHide",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"
 }

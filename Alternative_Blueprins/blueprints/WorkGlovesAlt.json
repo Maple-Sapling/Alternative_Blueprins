@@ -17,7 +17,7 @@
     "CraftedResult": "GEAR_WorkGloves",
     "CraftedResultCount": 1,
     "DurationMinutes": 300,
-    "CraftingAudio": "PLAY_CraftingGeneric",
+    "CraftingAudio": "Play_RepairingLeatherHide",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"
 }

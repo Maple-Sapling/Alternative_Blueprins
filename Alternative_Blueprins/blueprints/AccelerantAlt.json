@@ -21,7 +21,7 @@
     "CraftedResult": "GEAR_Accelerant",
     "CraftedResultCount": 1,
     "DurationMinutes": 90,
-    "CraftingAudio": "PLAY_CraftingGeneric",
+    "CraftingAudio": "Play_CraftingGunPowder",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"
 }

@@ -32,7 +32,7 @@
     "CraftedResult": "GEAR_WoodworkingTools",
     "CraftedResultCount": 1,
     "DurationMinutes": 720,
-    "CraftingAudio": "PLAY_CraftingGeneric",
+    "CraftingAudio": "Play_RepairingMetal",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"
 }

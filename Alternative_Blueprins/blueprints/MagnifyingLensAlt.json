@@ -17,7 +17,7 @@
     "CraftedResult": "GEAR_MagnifyingLens",
     "CraftedResultCount": 1,
     "DurationMinutes": 300,
-    "CraftingAudio": "PLAY_CraftingGeneric",
+    "CraftingAudio": "Play_CraftingMetal",
     "AppliedSkill": "None",
     "ImprovedSkill": "None"
 }
