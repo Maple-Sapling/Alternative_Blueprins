@@ -3,7 +3,7 @@ The Long Dark Mod
 
 <img width="2293" height="1203" alt="Alternative_Blueprints" src="https://github.com/user-attachments/assets/613e5c54-780b-4acb-9ed2-cb0059ff1d7e" />
 
-Add new/alternative Blueprins for crafting:
+# Add new/alternative blueprints for crafting:
 
 - Accelerant
 - Arrow Head
