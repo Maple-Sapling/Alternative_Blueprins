@@ -1,0 +1,23 @@
+{
+    "Name": "Arrow Head Alternative",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_ScrapMetal",
+            "Count": 1,
+            "Units": "Count"
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_SharpeningStone",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_ArrowHead",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 300,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

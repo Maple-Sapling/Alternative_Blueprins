@@ -1,0 +1,7 @@
+{
+	"Name": "Alternative_Blueprints",
+	"Version" : "1.0",
+	"Author": "Sapling",
+	"Requires":["ModComponent", "CraftingRevisions", "GearSpawner"],
+    "RequiresDLC": false
+}

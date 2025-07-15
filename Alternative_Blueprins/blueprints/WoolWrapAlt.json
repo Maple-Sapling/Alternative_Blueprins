@@ -1,0 +1,28 @@
+{
+    "Name": "Wool Wrap Alternative",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Cloth",
+            "Count": 4,
+            "Units": "Count"
+        },
+        {
+            "Item": "GEAR_Line",
+            "Count": 1,
+            "Units": "Count"
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_WoolWrap",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 180,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

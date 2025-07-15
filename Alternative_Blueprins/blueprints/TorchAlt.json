@@ -1,0 +1,28 @@
+{
+    "Name": "Torch Alternative",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Stick",
+            "Count": 1,
+            "Units": "Count"
+        },
+        {
+            "Item": "GEAR_Cloth",
+            "Count": 3,
+            "Units": "Count"
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_Torch",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 20,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

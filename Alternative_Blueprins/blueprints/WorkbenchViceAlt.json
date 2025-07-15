@@ -1,0 +1,28 @@
+{
+    "Name": "Workbench Vice Alternative",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_ScrapMetal",
+            "Count": 6,
+            "Units": "Count"
+        },
+                {
+            "Item": "GEAR_SimpleTools",
+            "Count": 1,
+            "Units": "Count"
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_Hammer",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Forge",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Vice",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 360,
+    "CraftingAudio": "Play_CraftingForge",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

@@ -1,0 +1,38 @@
+{
+    "Name": "Woodworking Tools Alternative",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_SimpleTools",
+            "Count": 1,
+            "Units": "Count"
+        },
+        {
+            "Item": "GEAR_HighQualityTools",
+            "Count": 1,
+            "Units": "Count"
+        },
+        {
+            "Item": "GEAR_ScrapMetal",
+            "Count": 3,
+            "Units": "Count"
+        },
+        {
+            "Item": "GEAR_Softwood",
+            "Count": 3,
+            "Units": "Count"
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_SharpeningStone",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_WoodworkingTools",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 720,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

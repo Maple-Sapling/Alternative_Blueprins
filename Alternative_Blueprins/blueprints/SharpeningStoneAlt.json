@@ -1,0 +1,27 @@
+{
+    "Name": "Sharpening Stone Alternative",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Stone",
+            "Count": 40
+        },
+        {
+            "Item": "GEAR_Softwood",
+            "Count": 1,
+            "Units": "Count"
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": ["GEAR_SimpleTools"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_SharpeningStone",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 240,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

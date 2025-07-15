@@ -1,0 +1,28 @@
+{
+    "Name": "Water Purification Tablet Alternative",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_Charcoal",
+            "Count": 6
+        },
+        {
+            "Item": "GEAR_BottleHydrogenPeroxide",
+            "Count": 1,
+            "Quantity": 0.14,
+            "Units": "Kilograms"
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": ["GEAR_HighQualityTools", "GEAR_SimpleTools"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_WaterPurificationTablets",
+    "CraftedResultCount": 6,
+    "DurationMinutes": 90,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

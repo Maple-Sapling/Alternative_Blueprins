@@ -1,0 +1,30 @@
+{
+    "Name": "Rope Alternative",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_GutDried",
+            "Count": 12
+        },
+        {
+            "Item": "GEAR_Line",
+            "Count": 6
+        },
+        {
+            "Item": "GEAR_LeatherDried",
+            "Count": 2
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_SewingKit",
+    "OptionalTools": ["GEAR_HookAndLine"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Rope",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 240,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

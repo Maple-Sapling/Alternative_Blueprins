@@ -1,0 +1,28 @@
+{
+    "Name": "Quality Tools Alternative",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_SimpleTools",
+            "Count": 3,
+            "Units": "Count"
+        },
+                {
+            "Item": "GEAR_ScrapMetal",
+            "Count": 2,
+            "Units": "Count"
+        }
+    ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "GEAR_SharpeningStone",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_HighQualityTools",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 180,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

@@ -1,0 +1,27 @@
+{
+    "Name": "Accelerant Alternative",
+    "RequiredGear": [],
+    "RequiredLiquid": [
+        {
+            "Liquid": "LIQUID_Kerosene",
+            "VolumeInLitres": 0.25
+        }
+    ],
+    "RequiredPowder": [
+        {
+            "Powder": "POWDER_Gunpowder",
+            "QuantityInKilograms": 0.25
+        }
+    ],
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "AmmoWorkbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Accelerant",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 90,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}

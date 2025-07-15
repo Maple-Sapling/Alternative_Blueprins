@@ -1,0 +1,38 @@
+{
+    "Name": "Rifle Cleaning Kit Alternative",
+    "RequiredGear": [
+        {
+            "Item": "GEAR_LeatherDried",
+            "Count": 1,
+            "Units": "Count"
+        },
+        {
+            "Item": "GEAR_ArrowShaft",
+            "Count": 1,
+            "Units": "Count"
+        },
+                {
+            "Item": "GEAR_ScrapMetal",
+            "Count": 1,
+            "Units": "Count"
+        }
+    ],
+    "RequiredLiquid": [
+        {
+            "Liquid": "LIQUID_Kerosene",
+            "VolumeInLitres": 0.25
+        }
+    ],
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "GEAR_HighQualityTools",
+    "OptionalTools": ["GEAR_SimpleTools"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_RifleCleaningKit",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 90,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill": "None",
+    "ImprovedSkill": "None"
+}
