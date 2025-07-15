@@ -23,3 +23,8 @@ The Long Dark Mod
 # Requires:
 - ModComponent
 - CraftingRevisions
+
+# Thanks
+to The Long Dark Modding Discord and all modders who share their source code.
+
+
